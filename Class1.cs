@@ -6,8 +6,8 @@ namespace WebSystemscSharp
 {
     class Student
     {
-        private int grade;//User's Grade Level
-        private String name;//User's Name
+        public int grade { get; set;}//User's Grade Level
+        public string name { get; set; }//User's Name
 
         public Student(int gradeLvL, String userName)//Student Constuctor 
         {
@@ -15,19 +15,15 @@ namespace WebSystemscSharp
             userName = name;//set student name in constructor
         }
 
-        public string Name
+        public override string ToString()
         {
-            get
-            {
-                return name;
-            }
-
-            set
-            {
-                name = value;
-            }
-
+            return base.ToString() + ": " + name.ToString();
         }
+
+      
+
+
+
     }
 }
 

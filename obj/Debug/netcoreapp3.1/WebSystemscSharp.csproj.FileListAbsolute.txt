@@ -1,0 +1,11 @@
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.exe
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.deps.json
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.runtimeconfig.json
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.runtimeconfig.dev.json
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.dll
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\bin\Debug\netcoreapp3.1\WebSystemscSharp.pdb
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\obj\Debug\netcoreapp3.1\WebSystemscSharp.csprojAssemblyReference.cache
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\obj\Debug\netcoreapp3.1\WebSystemscSharp.AssemblyInfoInputs.cache
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\obj\Debug\netcoreapp3.1\WebSystemscSharp.AssemblyInfo.cs
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\obj\Debug\netcoreapp3.1\WebSystemscSharp.dll
+C:\Users\Andrew Duchaussee\source\repos\WebSystemscSharp\WebSystemscSharp\obj\Debug\netcoreapp3.1\WebSystemscSharp.pdb
